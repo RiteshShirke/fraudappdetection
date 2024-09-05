@@ -52,5 +52,4 @@ The Fraudulent App Detection System is designed to detect potentially malicious 
 - JWT for user authentication.
 - HTTPS and SSL for secure communication.
 
-## Project Structure
 
